@@ -14,6 +14,6 @@ jobs:
         env:
           GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
           MERGE_METHOD: "squash"
-          MERGE_RETRIES: "10"
-          MERGE_RETRY_SLEEP: "8000"
+          MERGE_RETRIES: "20"
+          MERGE_RETRY_SLEEP: "15000"
           MERGE_DELETE_BRANCH: "true"
