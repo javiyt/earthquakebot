@@ -1,2 +1,2 @@
 # earthquakebot
-Bot to publish earthquakes onto Twitter
+Bot to publish earthquakes onto Telegram
